@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore massive datasets (don't upload 1GB of images to GitHub)
+datasets/
+test_images/
+
+# MacOS junk
+.DS_Store
