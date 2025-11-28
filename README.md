@@ -28,6 +28,4 @@ This project implements an end-to-end detection pipeline designed specifically f
 ### 🚀 How to Run Locally
 
 1. **Clone the repo**
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/Retail-Shelf-Auditor.git
-   cd Retail-Shelf-Auditor
+git clone https://github.com/mickeyob/Retail-Shelf-Auditor.git
